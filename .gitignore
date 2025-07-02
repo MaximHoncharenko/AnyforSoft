@@ -1,0 +1,13 @@
+/.pytest_cache
+/.venv
+/benchmark_results.json
+/commissions.json
+/commissions_fixed.json
+/commissions_new.json
+/commissions_original_test.json
+/commissions_refactored.json
+/CRITICAL_ISSUES_RESOLVED.md
+/README.md
+/simple_result.json
+/simple_test.json
+/__pycache__
